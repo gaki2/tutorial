@@ -44,7 +44,7 @@ Next step is to install the application in the desired workspace and allow acces
 
 Then on the concent screen click on **Allow** button to give the necessary permissions.
 
-## 4. Copy OAuth Access Token & Use in Azure Pipelines
+## 4. Copy OAuth Access Token
 
 Finally, copy the **OAuth Access Token** and use it in the **Slack API Token** field.
 
