@@ -1,4 +1,4 @@
-# Generate Slack Token with Slack App
+# Generate Slack Token with Slack App (Just 1 Minute)
 
 The _v6.x version and above_ of the Slack Notification task will be using the OAuth Access Token to authenticate with the Slack API. Use the following directions to create the OAuth Access Token.
 
